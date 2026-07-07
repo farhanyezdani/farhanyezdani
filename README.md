@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" alt="Farhan Yezdani GitHub Banner" width="100%" />
+</p>
+
+<br>
+
 # Hi 👋, I'm Farhan Yezdani
 
 ## 🚀 Software Engineer | Backend Developer | AI/ML Engineer
